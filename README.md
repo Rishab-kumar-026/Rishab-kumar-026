@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **Web Development and DSA**
 
-- 👨‍💻 Currently pursuing BCA at London Management Academy [LMA]
+- 👨‍💻 Currently pursuing BCA at **London Management Academy [LMA]**
 
 - 💬 Ask me about **Frontend Development**
 
