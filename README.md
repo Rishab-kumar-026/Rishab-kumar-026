@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishab-kumar-026&label=Profile%20views&color=0e75b6&style=flat" alt="rishab-kumar-026" /> </p>
 
-- 🌱 I’m currently learning **Web Development and DSA**
+- 🌱 I’m currently learning about **Web Development and DSA**
 
 - 👨‍💻 Currently pursuing BCA at London Management Academy [LMA]
 
